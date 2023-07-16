@@ -1,0 +1,4 @@
+{
+  "main_file": "./src/main.lua",
+  "files": ["./src/json.lua", "./src/curl.lua"]
+}
